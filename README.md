@@ -1,0 +1,3 @@
+- Olá, me chamo Filippe Sims.
+- Sempre gostei de tecnologia, estou aprendendo desde meus 13 anos.
+- Você pode ver meus contatos pelo: filippe.com.br/contatos
