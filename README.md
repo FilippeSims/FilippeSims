@@ -40,9 +40,7 @@
 
 ### 🧠 Curiosidades
 
-- 👶 Pai coruja de uma menina incrível 💜
 - 🎙️ Produzo vídeos sobre tecnologia e IA
-- ✍️ Tenho cursos sobre **registro de marcas** e **uso estratégico da inteligência artificial**
 
 ---
 
