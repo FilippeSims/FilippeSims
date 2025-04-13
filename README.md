@@ -48,10 +48,8 @@
 
 ### 📫 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-Filippe%20Sims-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filippe-sims/)
-[![Instagram](https://img.shields.io/badge/-@filippe.sims-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/filippe.sims/)
-[![Site Adapton](https://img.shields.io/badge/-Adapton.com.br-000?logo=firefox&logoColor=white)](https://adapton.com.br)
-
+[![LinkedIn](https://img.shields.io/badge/-Filippe%20Sims-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filippesims/)
+[![Instagram](https://img.shields.io/badge/-@filippe.sims-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/filippesims/)
 ---
 
 <p align="center">
