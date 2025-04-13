@@ -12,6 +12,7 @@
 - 💼 Trabalho com desenvolvimento web, automações, APIs e sistemas personalizados  
 - 🎯 Ajudo empresas a crescerem no digital com tecnologia prática e acessível  
 - 🧠 Experiência com Vue.js, Node.js, Tailwind, Laravel, PostgreSQL, MySQL e muito mais  
+- 🌱 Sou flexível e me adapto rapidamente a novas tecnologias e desafios  
 - 📚 Também crio conteúdos sobre marcas, negócios e inteligência artificial  
 - 🧩 Curioso nato — estou sempre aprendendo e ensinando  
 
@@ -20,12 +21,19 @@
 ### ⚒️ Tecnologias que mais uso
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?logo=vue.js&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript&logoColor=fff)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38bdf8?logo=tailwind-css&logoColor=fff)
 ![Laravel](https://img.shields.io/badge/-Laravel-ff2d20?logo=laravel&logoColor=fff)
+
+![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?logo=vue.js&logoColor=fff)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38bdf8?logo=tailwind-css&logoColor=fff)
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?logo=mysql&logoColor=fff)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
 
 ---
 
